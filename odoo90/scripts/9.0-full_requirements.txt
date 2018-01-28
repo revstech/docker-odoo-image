@@ -3,7 +3,6 @@ M2Crypto
 GeoIP
 SOAPpy
 suds
-pandas
 xmltodict
 flake8
 pylint-mccabe
@@ -21,7 +20,6 @@ sphinx==1.2.3
 acme_tiny
 m2crypto==0.25.1
 sphinx-patchqueue==0.4.0
-pandas
 pyopenssl==16.2.0
 cfdilib==0.4.0
 suds==0.4
